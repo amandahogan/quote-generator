@@ -9,11 +9,9 @@
 }
 
 .quotebox{
-  width: 50%;
-  height: 50%;
-  border: red;
+text-align: center;
+margin: 20%;
+padding:8rem 0 7rem;
   background-color: yellow;
-  align-content: center;
-  padding: 20%;
-  padding-left: 40%;
+
 }
