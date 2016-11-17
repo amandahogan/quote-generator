@@ -1,0 +1,19 @@
+.body{
+  max-height: 100%;
+}
+
+.row{
+  height: 100%;
+  max-width: 100%;
+  background-color: purple;
+}
+
+.quotebox{
+  width: 50%;
+  height: 50%;
+  border: red;
+  background-color: yellow;
+  align-content: center;
+  padding: 20%;
+  padding-left: 40%;
+}
