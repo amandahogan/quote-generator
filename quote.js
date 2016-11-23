@@ -28,8 +28,8 @@ var author;
 		});
 	}
 	getNewQuote();
-});
 
-  function tweetQuote() {
-		window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(quote));
+	function tweetQuote() {
+		window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(quote + ' - ' + author));
 	};
+});
